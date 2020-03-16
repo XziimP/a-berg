@@ -1,12 +1,13 @@
 
-![alt text](https://s3.eu-central-1.amazonaws.com/website-storage.beam.mw/media/homepage/scc/scc-1.jpg "Beam Logo")
+![image](https://cdn.discordapp.com/attachments/689075202092564515/689076232398176256/berg-coin.png)
 
-### Welcome to Beam
+### Welcome to BERG Coin
 
 
-BEAM is a next generation scalable, confidential cryptocurrency based on an elegant and innovative [Mimblewimble protocol](https://docs.beam.mw/Mimblewimble.pdf).
+BERG is a next generation scalable, confidential cryptocurrency based on an elegant and innovative.
 
 ### ANNOUNCEMENTS
+
 
 
 [Download latest version](http://beam.mw/downloads)
