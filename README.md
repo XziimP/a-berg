@@ -1,5 +1,5 @@
 
-![image](https://cdn.discordapp.com/attachments/689075202092564515/689076232398176256/berg-coin.png)
+![image](https://cdn.discordapp.com/attachments/636533302748119053/689410414123286528/berg-coin1.png)
 
 ### Welcome to BERG Coin
 
