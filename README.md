@@ -3,6 +3,8 @@
 
 ### Welcome to BERG Coin
 
+I created this logo and have changed the necessary icon (ico, icn, svg ..) image's with my own original creations. So if you were thinking of forking Beam than why not use this repository. I just want a few Berg Coin's if anybody use's this Berg coin can be your's for free please message me on discord or @VizX twitter. Again I claim no rights to this it's your's to do with what you want. 
+
 
 BERG is a next generation scalable, confidential cryptocurrency based on an elegant and innovative.
 
